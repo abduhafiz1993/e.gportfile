@@ -1,0 +1,65 @@
+.profile div img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    align-items: center;
+}
+h3{
+    text-align: center;
+    color: #8EC3B0;
+    text-shadow: #6B728E;
+    font-weight: bolder;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+}
+table{
+    border-radius: 30px;
+    border-spacing: 10px 2rem;
+    margin-left: 35%;
+}
+.profile{
+    align-items: center;
+    padding: 10, 30, 20, 0;
+    text-align: center;
+}
+body{
+    background-color: #edf3f3;
+}
+p{
+    font-family: cursive;
+    text-align: center;
+}
+.summary{
+    font-family: fantasy;
+    text-align: center;
+
+}
+.above{
+    color: white; 
+    background-color: #8EC3B0;
+    text-align: center;
+    text-decoration: dotted;
+    width: 50%;
+    box-shadow: 10px, 20px, 10px, #6B728E ;
+    font-size: x-large;
+    font-weight: lighter;
+    font-style: oblique;
+    border-radius: 50%;
+    align-self: center;
+    margin-left: 25%;
+}
+#Contact{
+    align-self: flex-end;
+    margin-left: 75%;
+}
+#blue{
+    background-color: #6B728E;
+    border-width: 5px;
+    border-top-right-radius: 75%;
+}
+#black{
+    background-color: lightskyblue;
+}
